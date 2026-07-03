@@ -1,4 +1,4 @@
-# 
+# Ultimate QueryMind package. Download and install with gpu-optimized and compatibility-check — fast, secure, and easy to use.
 
 
 
